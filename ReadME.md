@@ -10,5 +10,5 @@
 ##Ethernet  
 
 ---  
-##Some application protocal
+##Some application protocol
 
